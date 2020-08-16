@@ -12,7 +12,7 @@ def run():
     palabra = input('Escribe una palabra: ')
     es_palindromo = palindromo(palabra)
     if es_palindromo == True:
-        print('es palindromo')
+        print('Es palindromo')
     else:
         print('No es palindromo')
 
